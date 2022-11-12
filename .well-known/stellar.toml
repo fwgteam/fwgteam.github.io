@@ -28,3 +28,4 @@ image="https://gavitoken.github.io/img/gavi.png"
 conditions="There will only ever be 1 billion GAVI tokens in existence."
 status="live"
 anchor_asset_type="other"
+fixed_number=1000000000
