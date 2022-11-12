@@ -26,4 +26,3 @@ desc="GAVI is a crypto token. It represents a tradable asset that resides on Ste
 image="https://gavitoken.github.io/img/gavi.png"
 conditions="There will only ever be 1 billion GAVI tokens in existence."
 status="live"
-fixed_number=1000000000
