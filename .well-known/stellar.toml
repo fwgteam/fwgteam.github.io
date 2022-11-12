@@ -20,3 +20,4 @@ display_decimals = 7
 desc="GAVI is a crypto token. It represents a tradable asset that resides on Stellar blockchain and allows the holder to use it for investment."
 image="https://gavitoken.github.io/img/gavi.png"
 conditions="There will only ever be 1 billion GAVI tokens in existence."
+status="live"
