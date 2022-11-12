@@ -14,6 +14,8 @@ ORG_OFFICIAL_EMAIL="gavitoken@gmail.com"
 ORG_SUPPORT_EMAIL="gavitoken@gmail.com"
 ORG_TWITTER="0xgavitoken"
 ORG_DESCRIPTION="Gavitoken: Create Value to Crypto Space"
+[[PRINCIPALS]]
+email="gavitoken@gmail.com"
 
 [[CURRENCIES]]
 code = "GAVI"
