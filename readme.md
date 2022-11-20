@@ -1,2 +1,2 @@
-# anubis.github.io
+# anubistoken.github.io
 Project Website
