@@ -12,7 +12,7 @@ ORG_URL="https://anubistoken.github.io"
 ORG_LOGO = "https://anubistoken.github.io/img/anubis.png"
 ORG_OFFICIAL_EMAIL="anubistoken@gmail.com"
 ORG_SUPPORT_EMAIL="anubistoken@gmail.com"
-ORG_TWITTER="0xnubistoken"
+ORG_TWITTER="0xanubistoken"
 ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
 
 [[PRINCIPALS]]
@@ -25,7 +25,7 @@ issuer = "GA55CDB6EUD6P7VUIVQ5AFFA3CQRVKRNN4KGCM7PZHLFDQTFTECN4EPO"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ANUB."
-image="https://anubistoken.github.io/img/gavi.png"
+image="https://anubistoken.github.io/img/anubis.png"
 conditions="There will only ever be 1 billion ANUB tokens in existence."
 status="live"
 anchor_asset_type="other"
