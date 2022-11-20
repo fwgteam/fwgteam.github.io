@@ -1,32 +1,32 @@
-# Gavitoken <gavitoken.github.io>
+# Anubistoken <anubistoken.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBOL57VCIN2FU6DRFETSXWADI4BC4A52KGETCX7MH6YSHYI2QI2UNOOD"
+"GA55CDB6EUD6P7VUIVQ5AFFA3CQRVKRNN4KGCM7PZHLFDQTFTECN4EPO"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Gavitoken"
-ORG_URL="https://gavitoken.github.io"
-ORG_LOGO = "https://gavitoken.github.io/img/gavi.png"
-ORG_OFFICIAL_EMAIL="gavitoken@gmail.com"
-ORG_SUPPORT_EMAIL="gavitoken@gmail.com"
-ORG_TWITTER="0xgavitoken"
-ORG_DESCRIPTION="Gavitoken: Create Value to Crypto Space"
+ORG_NAME="Anubistoken"
+ORG_URL="https://anubistoken.github.io"
+ORG_LOGO = "https://anubistoken.github.io/img/anubis.png"
+ORG_OFFICIAL_EMAIL="anubistoken@gmail.com"
+ORG_SUPPORT_EMAIL="anubistoken@gmail.com"
+ORG_TWITTER="0xnubistoken"
+ORG_DESCRIPTION="Anubistoken: Create Value to Crypto Space"
 
 [[PRINCIPALS]]
-email="gavitoken@gmail.com"
+email="anubistoken@gmail.com"
 
 [[CURRENCIES]]
-code = "GAVI"
-name = "GAVI"
-issuer = "GBOL57VCIN2FU6DRFETSXWADI4BC4A52KGETCX7MH6YSHYI2QI2UNOOD"
+code = "ANUB"
+name = "ANUB"
+issuer = "GA55CDB6EUD6P7VUIVQ5AFFA3CQRVKRNN4KGCM7PZHLFDQTFTECN4EPO"
 is_asset_anchored=false
 display_decimals = 7
 desc="GAVI is a utility token for GaviNFT. Our NFT collection will be running on our website in the near future. GaviToken was built to reward GaviNFT holders with passive cryptocurrency income every month."
-image="https://gavitoken.github.io/img/gavi.png"
-conditions="There will only ever be 1 billion GAVI tokens in existence."
+image="https://Anubistoken.github.io/img/gavi.png"
+conditions="There will only ever be 1 billion ANUB tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
