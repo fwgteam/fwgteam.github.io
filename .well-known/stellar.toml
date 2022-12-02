@@ -1,9 +1,9 @@
-# Anubistoken <anubistoken.github.io>
+# Ptahtoken <ptahtoken.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA55CDB6EUD6P7VUIVQ5AFFA3CQRVKRNN4KGCM7PZHLFDQTFTECN4EPO"
+"GBW6LRUSTJUCUFCRXACVRPSF626PTDZURBKF4GA7AWLZLRAY7QBAKWIT"
 ]
 
 [DOCUMENTATION]
@@ -21,7 +21,7 @@ email="ptahtoken@gmail.com"
 [[CURRENCIES]]
 code = "PTAH"
 name = "PTAH"
-issuer = "GA55CDB6EUD6P7VUIVQ5AFFA3CQRVKRNN4KGCM7PZHLFDQTFTECN4EPO"
+issuer = "GBW6LRUSTJUCUFCRXACVRPSF626PTDZURBKF4GA7AWLZLRAY7QBAKWIT"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of PTAH."
