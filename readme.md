@@ -1,2 +1,2 @@
-# anubistoken.github.io
+# ptahtoken.github.io
 Project Website
