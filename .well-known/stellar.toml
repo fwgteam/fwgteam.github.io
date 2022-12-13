@@ -1,4 +1,4 @@
-# Fwateam <fwateam.github.io>
+# fwateam <fwateam.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
@@ -7,13 +7,13 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Fwateam"
+ORG_NAME="fwateam"
 ORG_URL="https://fwateam.github.io"
 ORG_LOGO = "https://fwateam.github.io/img/fwa.png"
 ORG_OFFICIAL_EMAIL="0xfwateam@gmail.com"
 ORG_SUPPORT_EMAIL="0xfwateam@gmail.com"
 ORG_TWITTER="0xfwateam"
-ORG_DESCRIPTION="Fwateam: Create Value to NFT Space"
+ORG_DESCRIPTION="fwateam: Create Value to NFT Space"
 
 [[PRINCIPALS]]
 email="0xfwateam@gmail.com"
