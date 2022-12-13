@@ -1,32 +1,32 @@
-# Ptahtoken <ptahtoken.github.io>
+# Fwateam <fwateam.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBW6LRUSTJUCUFCRXACVRPSF626PTDZURBKF4GA7AWLZLRAY7QBAKWIT"
+"GCJKAJKSIFMAE6KTHEPUJQQYZ4ZE5FVDO4PG2WDIDWBQENGJCM63FOJE"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Ptahtoken"
-ORG_URL="https://ptahtoken.github.io"
-ORG_LOGO = "https://ptahtoken.github.io/img/ptah.png"
-ORG_OFFICIAL_EMAIL="ptahtoken@gmail.com"
-ORG_SUPPORT_EMAIL="ptahtoken@gmail.com"
-ORG_TWITTER="0ptahtoken"
-ORG_DESCRIPTION="Ptahtoken: Create Value to Meme Coin Space"
+ORG_NAME="Fwateam"
+ORG_URL="https://fwateam.github.io"
+ORG_LOGO = "https://fwateam.github.io/img/fwa.png"
+ORG_OFFICIAL_EMAIL="0xfwateam@gmail.com"
+ORG_SUPPORT_EMAIL="0xfwateam@gmail.com"
+ORG_TWITTER="0xfwateam"
+ORG_DESCRIPTION="Fwateam: Create Value to NFT Space"
 
 [[PRINCIPALS]]
-email="ptahtoken@gmail.com"
+email="0xfwateam@gmail.com"
 
 [[CURRENCIES]]
-code = "PTAH"
-name = "PTAH"
-issuer = "GBW6LRUSTJUCUFCRXACVRPSF626PTDZURBKF4GA7AWLZLRAY7QBAKWIT"
+code = "FWA"
+name = "FWA"
+issuer = "GCJKAJKSIFMAE6KTHEPUJQQYZ4ZE5FVDO4PG2WDIDWBQENGJCM63FOJE"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of PTAH."
-image="https://ptahtoken.github.io/img/ptah.png"
-conditions="There will only ever be 1 billion PTAH tokens in existence."
+desc="This is token of FWA."
+image="https://fwateam.github.io/img/fwa.png"
+conditions="There will only ever be 1 billion FWA tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
