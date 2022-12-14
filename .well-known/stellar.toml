@@ -1,0 +1,32 @@
+# fwbteam <fwbteam.github.io>
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GDU73MKOKQVGWV3WNRMU32TT3YXVQY563UZZ7I6X562QYHE5EFPM3ANT"
+]
+
+[DOCUMENTATION]
+ORG_NAME="fwbteam"
+ORG_URL="https://fwbteam.github.io"
+ORG_LOGO = "https://fwbteam.github.io/img/fwb.png"
+ORG_OFFICIAL_EMAIL="0xfwbteam@gmail.com"
+ORG_SUPPORT_EMAIL="0xfwbteam@gmail.com"
+ORG_TWITTER="0xfwbteam"
+ORG_DESCRIPTION="fwbteam: Create Value to NFT Space"
+
+[[PRINCIPALS]]
+email="0xfwbteam@gmail.com"
+
+[[CURRENCIES]]
+code = "FWB"
+name = "FWB"
+issuer = "GDU73MKOKQVGWV3WNRMU32TT3YXVQY563UZZ7I6X562QYHE5EFPM3ANT"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is token of FWB."
+image="https://fwbteam.github.io/img/fwb.png"
+conditions="There will only ever be 1 billion FWB tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
