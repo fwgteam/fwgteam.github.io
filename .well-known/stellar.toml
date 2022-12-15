@@ -1,32 +1,32 @@
-# fwcteam <fwcteam.github.io>
+# fwdteam <fwdteam.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAUXLLKKZEUAMHSNEYIH7SJYSAIDIPATE7HEBVJRONYS2WL4SZJ62ETI"
+"GABGMCMAB2DNGTOY5HDOJXX2L7XGZ2AGDR6FYPKV3EHE4XYW7SJNTHEB"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="fwcteam"
-ORG_URL="https://fwcteam.github.io"
-ORG_LOGO = "https://fwcteam.github.io/img/fwc.png"
-ORG_OFFICIAL_EMAIL="fwcteam@yahoo.com"
-ORG_SUPPORT_EMAIL="fwcteam@yahoo.com"
-ORG_TWITTER="0xfwcteam"
-ORG_DESCRIPTION="fwcteam: Create Value to NFT Space"
+ORG_NAME="fwdteam"
+ORG_URL="https://fwdteam.github.io"
+ORG_LOGO = "https://fwdteam.github.io/img/fwd.png"
+ORG_OFFICIAL_EMAIL="fwdteam@yahoo.com"
+ORG_SUPPORT_EMAIL="fwdteam@yahoo.com"
+ORG_TWITTER="0xfwdteam"
+ORG_DESCRIPTION="fwdteam: Create Value to NFT Space"
 
 [[PRINCIPALS]]
-email="fwcteam@yahoo.com"
+email="fwdteam@yahoo.com"
 
 [[CURRENCIES]]
-code = "FWC"
-name = "FWC"
-issuer = "GAUXLLKKZEUAMHSNEYIH7SJYSAIDIPATE7HEBVJRONYS2WL4SZJ62ETI"
+code = "FWD"
+name = "FWD"
+issuer = "GABGMCMAB2DNGTOY5HDOJXX2L7XGZ2AGDR6FYPKV3EHE4XYW7SJNTHEB"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is token of FWC."
-image="https://fwcteam.github.io/img/fwc.png"
-conditions="There will only ever be 1 billion FWC tokens in existence."
+desc="This is token of FWD."
+image="https://fwdteam.github.io/img/fwd.png"
+conditions="There will only ever be 1 billion FWD tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
