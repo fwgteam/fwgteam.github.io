@@ -1,0 +1,32 @@
+# fwgteam <fwgteam.github.io>
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GAGXF7LJDLHK6HVGAGJG4ERGSGWH65YTA5P6NX5ZPIKXQGHKQV7TRGOL"
+]
+
+[DOCUMENTATION]
+ORG_NAME="fwgteam"
+ORG_URL="https://fwgteam.github.io"
+ORG_LOGO = "https://fwgteam.github.io/img/fwg.png"
+ORG_OFFICIAL_EMAIL="fwgteam@yahoo.com"
+ORG_SUPPORT_EMAIL="fwgteam@yahoo.com"
+ORG_TWITTER="0xfwgteam"
+ORG_DESCRIPTION="fwgteam: Create Value to NFT Space"
+
+[[PRINCIPALS]]
+email="fwgteam@yahoo.com"
+
+[[CURRENCIES]]
+code = "FWG"
+name = "FWG"
+issuer = "GAGXF7LJDLHK6HVGAGJG4ERGSGWH65YTA5P6NX5ZPIKXQGHKQV7TRGOL"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is token of FWG."
+image="https://fwgteam.github.io/img/fwg.png"
+conditions="There will only ever be 1 billion FWG tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
